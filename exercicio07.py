@@ -9,3 +9,4 @@ elif media >= 5:
     print("Em treinamento")
 else:
     print("Reprovado")
+#FINALIZADO

@@ -1,3 +1,12 @@
-# Bianca está programando o controle de acesso a uma plataforma que só funciona entre 9h e 21h.
-# O programa deve receber a hora atual (formato 24h) e informar se o acesso é permitido.
+acesso_plataforma = int(input("Digite o horário que você está acessando a plataforma: "))
+print = ("Acesso permitido.")
 
+if acesso_plataforma >= 8 :
+   print("Alerta! Você está tentando acessar a plataforma em um horário não permitido.")
+else:
+   print("Horário não autorizado.")
+
+if acesso_plataforma >= 22 :
+   print("Alerta! Você está tentando acessar a plataforma em um horário não permitido.")
+else:
+   print("Horário não autorizado.")

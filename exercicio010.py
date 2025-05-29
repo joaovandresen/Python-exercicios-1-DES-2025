@@ -1,4 +1,3 @@
-
 solicitar_financiamento = int(input("Envie seu salário mensal: "))
 
 if solicitar_financiamento >= 3000 :

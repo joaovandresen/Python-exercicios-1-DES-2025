@@ -3,4 +3,3 @@
 
 # Crie um programa que receba o número de avaliações de cada curso e exiba qual teve mais.
 # Caso as quantidades sejam iguais, exiba uma mensagem dizendo que houve empate.
-

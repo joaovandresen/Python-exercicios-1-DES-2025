@@ -2,4 +2,3 @@
 
 # Salário mensal acima de R$ 3.000,00
 # A parcela não pode ser maior que 35% do salário
-

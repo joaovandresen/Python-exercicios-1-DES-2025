@@ -1,4 +1,4 @@
-distancia = float(input("Digite a distância em km: "))
+distancia = int(input("Digite a distância em km: "))
 
 if distancia <= 50:
     frete = 5.00  

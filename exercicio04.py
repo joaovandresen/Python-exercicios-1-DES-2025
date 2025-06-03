@@ -1,5 +1,5 @@
-distancia = int(input("Digite a distância: "))
-tempo = int(input("Digite o tempo: "))
+distancia = float(input("Digite a distância: "))
+tempo = float(input("Digite o tempo: "))
 
 velocidade = distancia / tempo
 

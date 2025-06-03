@@ -6,7 +6,7 @@ velocidade = distancia / tempo
 if velocidade < 5:
    print("Lento")
 elif velocidade <= 10:
-   print("Velocidade moderada")
+   print("Moderado")
 else:
    print("Velocidade rápida")
 #FINALIZADO

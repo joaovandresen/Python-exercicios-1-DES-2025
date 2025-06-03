@@ -1,5 +1,5 @@
-distancia = int(input("Digite a distância percorrida em km: "))
-tempo = int(input("Digite o tempo gasto em horas: "))
+distancia = int(input("Digite a distância: "))
+tempo = int(input("Digite o tempo: "))
 
 velocidade = distancia / tempo
 

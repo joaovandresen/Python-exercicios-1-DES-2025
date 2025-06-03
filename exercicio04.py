@@ -4,7 +4,7 @@ tempo = float(input("Digite o tempo: "))
 velocidade = distancia / tempo
 
 if velocidade < 5:
-   print("Velocidade lenta")
+   print("Lento")
 elif velocidade <= 10:
    print("Velocidade moderada")
 else:

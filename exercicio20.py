@@ -4,6 +4,6 @@ usuario = input("Digite seu usuário: ")
 senha = input("Digite sua senha: ")
 
 if usuario == "admin" and senha == "1234":
-        print("Login realizado com sucesso")
+        print("Acesso concedido.")
 else:
-        print("Acesso negado")
+        print("Acesso negado.")

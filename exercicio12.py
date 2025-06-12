@@ -6,3 +6,4 @@ if senha >= "12345678":
         print("Senha válida.")
 else:
         print("Senha muito curta.")
+# FINALIZADO

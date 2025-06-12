@@ -8,3 +8,4 @@ elif idade >= 13:
     print("Cadastro permitido.")
 else:
     print("Cadastro não permitido.")
+# FINALIZADO

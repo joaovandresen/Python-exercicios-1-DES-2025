@@ -16,7 +16,6 @@ elif imc < 30:
 else:
     classificacao = "Obesidade"
 
-# Mostra o resultado
 print(f"O seu IMC é: {imc:.2f}")
 print(f"Classificação: {classificacao}")
 #FINALIZADO

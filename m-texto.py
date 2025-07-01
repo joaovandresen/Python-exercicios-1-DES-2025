@@ -1,3 +1,4 @@
+
 texto = "João é guerreiro!"
 
 print(texto.upper())
